@@ -17,9 +17,9 @@ My Portfolio Is Separated in These Sections:
 ## 💼 What i Utilized to This Project?
 For the development of this site I utilized the following technologies:
 
-HTML;
-Sass;
-JavaScript;
+- HTML;
+- Sass;
+- JavaScript;
 
 ---
 
