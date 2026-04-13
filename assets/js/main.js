@@ -14,14 +14,14 @@ faqItems.forEach((item) => {
     faqItems.forEach((i) => {
       i.classList.remove("open");
       i.querySelector(".toggle-btn").innerHTML = `
-        <img src="./assets/image/PlusCircle.svg" alt="Abrir" />
+        <img src="/portfolio/assets/image/PlusCircle.svg" alt="Abrir" />
       `;
     });
 
     if (!isOpen) {
       item.classList.add("open");
       btn.innerHTML = `
-        <img src="./assets/image/MinusCircle.svg" alt="Fechar" />
+        <img src="/portfolio/assets/image/MinusCircle.svg" alt="Fechar" />
       `;
     }
   });
