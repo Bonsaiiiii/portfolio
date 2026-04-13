@@ -20,7 +20,7 @@ My Portfolio Is Separated in These Sections:
 For the development of this site I utilized the following technologies:
 
 - HTML;
-- Sass;
+- Saas;
 - JavaScript;
 
 ---
@@ -28,4 +28,4 @@ For the development of this site I utilized the following technologies:
 ## Open to Freelance - #OpenToWork 🚀
 Right now I am open to opportunities as a Full Stack Developer. If you need someone to work in your projects you found the right guy!
 
-📬 My contacts: 📧 [email] 💼 [linkedin]
+📬 My contacts: 📧 caiodhames@gmail.com 💼 linkedin.com/in/caiodhamessouza
