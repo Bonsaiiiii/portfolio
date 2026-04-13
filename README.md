@@ -1,7 +1,8 @@
 <h1 align="center">
   💻 <br>Caio Hames | Design and Technology
 </h1>
-[Image]
+
+![Resultado final do projeto](assets/image/preview.png)
 
 <h4 align="center"><a href="https://bonsaiiiii.github.io/portfolio/">Click Here to See My Complete Portfolio</a></h4>
 
